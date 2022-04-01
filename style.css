@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(30,33,36);
+}
+#gmail{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    color: white;
+    text-decoration: white;
+    margin-left: 1100px;
+    margin-bottom: 170px;
+    
+}
+#logo{
+    display: flex;
+    width: 500px;
+    height: auto;
+    margin-left: 540px;
+    margin-bottom: auto;
+        
+}
+#barra{
+    display: flex;
+    width: 500px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 22px;
+    border: 1px solid grey;
+    top: 10px;
+}
+#search{ 
+    margin-left: 547px;
+    height: 30px;
+    position: relative;
+    left: -3px;
+    top: 10px;
+        
+}
+#lucky{
+    margin-left: 0px;
+    height: 30px;
+    position: relative;
+    right: -3px;
+    top: 10px;
+        
+}
+.footer-content{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: white;
+    text-decoration: white;
+    position: absolute;
+    bottom: 2%;
+    width: 100%;
+    
+     
+}
